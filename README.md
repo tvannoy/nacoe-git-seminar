@@ -1,7 +1,7 @@
-# Intro to git presentation template
+# Intro to git
 
-This repo contains the main template for my intro to git presentation, which is further customized in repos created from this template.
+Intro to git slides for the NACOE grad student seminar.
 
-View the slides [here](https://tvannoy.github.io/intro-to-git) on GitHub pages.
+View the slides [here](https://tvannoy.github.io/nacoe-git-seminar) on GitHub pages.
 
 This presentation was made with [slidev](https://sli.dev/).
