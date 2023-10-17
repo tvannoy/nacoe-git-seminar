@@ -90,6 +90,10 @@ class: 'text-center'
    <i>software</i>
   </div>
   <div v-click class="grid grid-rows-2 gap-y-2 text-center justify-items-center">
+   <mdi-robot-industrial class="text-70 text-amber-500"/>
+   <i>designs</i>
+  </div>
+  <div v-click class="grid grid-rows-2 gap-y-2 text-center justify-items-center">
    <mdi-fountain-pen class="text-70 text-blue-500"/>
    <i>writing</i>
   </div>
@@ -371,6 +375,7 @@ layout: section
 <hr>
 
 - source code
+- design files
 - documentation
 
 </div>
