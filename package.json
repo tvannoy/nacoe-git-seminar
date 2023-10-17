@@ -1,0 +1,22 @@
+{
+  "name": "presentation",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "latest",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "qrcode.vue": "^3.4.1",
+    "slidev-theme-eloc": "^1.0.1"
+  },
+  "devDependencies": {
+    "@iconify-json/emojione": "^1.1.7",
+    "@iconify-json/flat-color-icons": "^1.1.7",
+    "@iconify-json/mdi": "^1.1.54",
+    "playwright-chromium": "^1.25.2"
+  }
+}
